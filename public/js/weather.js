@@ -1,6 +1,6 @@
 const lunarAPI = "https://www.icalendar37.net/lunar/api/"
 const public_mapapi = ""
-const twcApiKey = ""
+const twcApiKey = "71f92ea9dd2f4790b92ea9dd2f779061"
 let autoPicked = true
 
 export let endingTemp, endingWind, endingDistance, endingMeasurement;
